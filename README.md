@@ -6,4 +6,4 @@
 - I’ve been actively studying the full stack for 9+ month. 
 - Quickly learn new information, have good analytical skills, attentive to details, work well on my own and in a team.
 
-🌐 Languages : Indonesia, English
+🌐 Languages : Bahasa Indonesia, English
