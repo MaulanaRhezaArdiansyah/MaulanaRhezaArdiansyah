@@ -1,5 +1,5 @@
 # Hi there, I'm Rheza! 👋
-## 🧑‍💻 About Me :
+### 🧑‍💻 About Me :
 
 I'm a Junior Fullstack Developer from Indonesia.
 
