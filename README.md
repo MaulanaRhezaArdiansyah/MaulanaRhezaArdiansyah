@@ -6,7 +6,7 @@
 - I’ve been actively studying the full stack for 9+ month. 
 - Quickly learn new information, have good analytical skills, attentive to details, work well on my own and in a team.
 
-[My Portfolio Website](https://rheza-ardiansyah.vercel.app/)
+[My Portfolio Website](https://rhezaardiansyah.vercel.app/)
 
 🌐 Languages : Bahasa Indonesia, English
 ---
