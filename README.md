@@ -1,12 +1,12 @@
 # Hi there, I'm Rheza! 👋
 ### 🧑‍💻 About Me :
 
-#### I'm a Junior Fullstack Developer from Indonesia.
+#### I'm a Fullstack Developer from Indonesia.
 
-- I’ve been actively studying the full stack for 1+ years. 
+- I’ve been actively studying and working the full stack development for 1+ years. 
 - Quickly learn new information, have good analytical skills, attentive to details, work well on my own and in a team.
 
-[My Portfolio Website](https://rhezaardiansyah.netlify.app/)
+[My Portfolio Website](https://rhezaardiansyah.com/)
 
 🌐 Languages : Bahasa Indonesia, English
 ---
