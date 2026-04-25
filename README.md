@@ -1,14 +1,14 @@
 # Hey, I'm Rheza! 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&width=500&lines=Developer+Coordinator+%40+ASTECH;Laravel+%7C+TypeScript+%7C+PostgreSQL;Building+SIMRS+Medicare+%F0%9F%8F%A5;Based+in+Karawang%2C+West+Java+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&width=500&lines=Fullstack+Developer+from+Indonesia;Laravel+%7C+TypeScript+%7C+PostgreSQL;Building+SIMRS+Medicare+%F0%9F%8F%A5;Based+in+Karawang%2C+West+Java+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a **Developer Coordinator** at [Alfatih Solusindo Technology (ASTECH)](https://astech.id), Karawang — overseeing cross-functional programmer teams and leading the technical development of **SIMRS Medicare**, a hospital information management system serving healthcare clients across Indonesia.
+I'm a **Fullstack Developer** at [Alfatih Solusindo Technology (ASTECH)](https://astech.id), Karawang — building and maintaining **SIMRS Medicare**, a hospital information management system serving healthcare clients across Indonesia.
 
 - 🏥 Core product: **SIMRS Medicare** — BPJS & SatuSehat compliant HMIS
 - 🧱 Architecting a **modular monolith** with DDD & CQRS on Laravel 9+
